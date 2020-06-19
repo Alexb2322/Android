@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping cart</string>
+    <string name="lbl_product">Product</string>
+    <string name="lbl_quantity">Quantity</string>
+</resources>
